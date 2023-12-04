@@ -1,7 +1,7 @@
-<h1><a href="https://app.tango.us/app/workflow/c5a235f6-f4de-40d7-9d69-326156f8b272?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank'>Setting up Load Balancers with EC2</a></h1>
+<h1>Setting up Load Balancers with EC2<</h1>
 <div><b>Creation Date:</b> October 21, 2023</div>
 <div><b>Created By:</b> Yeison Giraldo</div>
-<div><a href="https://app.tango.us/app/workflow/c5a235f6-f4de-40d7-9d69-326156f8b272?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank'>View most recent version on Tango.us</a></div>
+
 <div style="height: 24px">&#8203;</div>
 <hr />
 <div style="height: 24px">&#8203;</div>
@@ -272,6 +272,5 @@
 <br/>
 <hr/>
 <div>
-<span>Created with </span><a href="https://tango.us?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target='_blank' style='color: #256EFF'>Tango.us
-    </a>
+
 </div>
